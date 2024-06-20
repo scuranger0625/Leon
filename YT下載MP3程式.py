@@ -14,7 +14,7 @@ class Example(QWidget):
     def initUI(self):
         self.setGeometry(300, 300, 500, 200)
         self.setWindowTitle("YouTube Playlist Downloader")
-        self.setWindowIcon(QIcon(r"C:\Users\Leon\Desktop\python\icon和圖片\doge.jpg"))
+        self.setWindowIcon(QIcon(r"Your path icon"))
 
         layout = QVBoxLayout()
 
